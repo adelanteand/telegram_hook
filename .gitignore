@@ -1,0 +1,12 @@
+.project
+config.php
+.htpasswd
+/data/*
+!/data/keep.txt
+youtube_key.txt
+sql.txt
+/vendor/
+/nbproject/private/
+composer.lock
+/html/vendor/
+node_modules
